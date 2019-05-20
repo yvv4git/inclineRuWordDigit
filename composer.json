@@ -8,5 +8,7 @@
             "email": "yvv4git@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=5.3.3"
+    },
 }
