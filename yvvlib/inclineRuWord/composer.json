@@ -1,0 +1,13 @@
+{
+    "name": "yvv/incline-ru-word",
+    "description": "Incline ru word by digital",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "yvvrecon",
+            "email": "yvv4recon@gmail.com"
+        }
+    ],
+    "require": {}
+}
